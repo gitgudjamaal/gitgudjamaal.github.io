@@ -1,0 +1,69 @@
+body{
+  background-color: brown;
+}
+
+
+.window{
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(4,2,0);
+}
+.seewindow{
+  background-color: rgb(4,2,0);
+  margin: 15% auto;
+  padding: 13px;
+  border: 1px solid;
+  width: 77%;
+}
+.close{
+  color: white;
+  float: right;
+  font-size: 28px;
+}
+.close:hover, .close:focus{
+  color: black;
+  cursor: pointer;
+}
+
+
+.slideshow{
+  width: 666px;
+  position: relative;
+  margin: auto;
+}
+.slides{
+  display: none;
+}
+
+
+.back, .next{
+  position: absolute;
+  width: 77%;
+  padding: 5px;
+  transition: 0.3s;
+  color: white;
+  background-color: black;
+}
+.next{
+  right: 0;
+  border-radius: 3px;
+}
+.back{
+  left: -1;
+  border-radius: 3px;
+}
+
+
+.dot{
+  width: 9px;
+  height: 9px;
+  display: inline;
+  margin: 2px;
+  transition: 0.3s;
+}
