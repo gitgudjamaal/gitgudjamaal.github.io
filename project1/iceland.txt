@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+	<body>
+
+<div class="row">
+	<div class="column">
+		<img src= "logo(1).png" alt= "Explore Iceland" width="222" height="222"
+	<div align="right" class="">
+		<div class="column">
+			<img src="iceland(1).jpg" alt= "Come to Iceland" width"222" height="222">
+		</div>
+<hr></hr>
+	<font size="9"><center><h1>Iceland</h1></center></font>
+		<font size="6"<p><i><em><b>Iceland</b></em></i> is a country of sharp cpntrasts. A place where fire and ice co-exist. Where dark winters are offset by the summer's midnight sun. A country where insular existence has spurred a rich and vibrant culture.</p></font>
+<body style="background-color:pink">
+		<font size="5"><h2 style="border:3px solid"><p><em>Things to do in Iceland</em></p>
+		<center><img src= "iceland3(1).jpg" alt= "Northern Lights" width="600" height="333"></center>
+		<center><p><i>Northern Lights in Iceland</i></p></center>
+
+		<p>The Aurora Borealis takes its name from the Roman goddess of dawn, Aurora, and the Greek name for the north wind, Boreas. From
+		september to april, Iceland is a hotspot for this magnificent lightshow.
+		The Aurora Borealis, more commonly referred to as the Northern Lights is a natural phenomenon created when particles emitted by the sun
+		interact with the atmosphere in the Earth's magnetic field. This releases energy, causing peculiar luminous green streaks across the skies.</p>
+
+	<center><img src= "iceland1(1).jpg" alt= "Ice Climbing & Hiking" width="600" height="333"></center>
+		<center><p><i>Ice climbing & hiking on glaciers</i></p></center>
+
+		<p>When making a trip to Iceland, it is hard not to pay special attention to the country's namesake-namely, its 4,500 square miles of glacier.
+		Ice climbing on the glaciers is practiced year-round and takes place mainly on the Solheimajokull and Svinafellsjokull glaciers in the south
+		of Iceland, to which day trips are offered from Reykjavik (and Skaftafell).</p></h2></font>
+
+		<hr></hr>
+
+		<dl class="">
+			<font size="6"
+			<dt><h3>Upcoming Events</h3></dt>
+			<dd><a href="#">Eistnaflug Rock Festival</a></dd>
+			<dd><a href="#">Eistnaflug Rock Festival</a></dd>
+		</dl>
+		<p></p>
+		<hr></hr>
+		<h3>Newsfeed</h3>
+
+		<p><b><em>Norse mythology published as divination cards</em></b></p>
+		<dd>Llewellyn Publications will be publishing 81-card divination deck bringing the wisdom of Norse mythology to life.</dd>
+
+		<p><b><em>Hollywood Reporter and Screen Daily give Icelandic director Elfar Aoalsteinsson great reviews</em></b></p>
+		<dd>nd of Sentence, by director Elfar Aoalsteins, receives very positive reviews in leading film industry magazines such as Hollywood. The film's two leading actors, John Hawkes and Logan Lerman, are also very praised in both reviews. Hawkes has quite a few films under his belt and was nominated for an Oscar Winter's Bones and young Lerman is best known for his role in The Perks of Being a Wallflower. Icelandic actor Olafur Darri Olafssonalso has a small part in End of Sentence.</dd>
+		<hr></hr>
+		<h3>How Much Does An Iceland Trip Cost?<h3>
+		</font>
+			<h1 style="border:3px solid"><table>
+				<tr>
+					<th bgcolor="green"></th>
+					<th bgcolor="green">Price</th>
+					<tr>
+						<td>Ticket from JFK</td>
+						<td>$1100</td>
+						</tr>
+						<tr>
+							<td>Hotel for 2 per night</td>
+							<td>$150</td>
+						</tr>
+						<tr>
+							<td>Food per person per day</td>
+							<td>$80</td>
+						</tr>
+						<tr>
+							<td>Attractions and Activities per person</td>
+							<td>$200</td>
+						</tr>
+						<tr>
+							<td bgcolor="green">Total Cost per day per person</td>
+							<td bgcolor="green">$430</td></h1>
+						</tr>
+					</tr>
+				</tr>
+			</table>
+			<hr></hr>
+			<font size="6">
+			<h3>Contact Us</h3>
+			<img src="phone(1).png" alt="" width="69" height="69"> <a href="#">1(800)-999-9999</a>
+			<img src="email(1).png" alt="" width="69" height="69"> <a href="#">jamaalrivers69@gmail.com</a>
+			<img src="instagram(1).png" alt="" width="69" height="69"> <a href="#">Follow us on Instagram</a>
+			<hr></hr>
+			<center><a href="#">The Northen Lights</a> <a href="#">Hiking on Glaciers</a> <a href="#">Contact Us</a></center>
+			<center><p>2021<b>@ Project 1 by Jamaal Rivers</b></p></center>
+		</font>
+	</body>
+
+</html>
